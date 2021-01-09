@@ -513,25 +513,25 @@ body {
 
 
 @media screen and (max-width: 1200px) {
-        /*hero*/
+    /*hero*/
 
-        .hero__items {
-            flex-wrap: wrap;
-        }
-    
-        .hero__item {
-            width: 50%;
-        }
+    .hero__items {
+        flex-wrap: wrap;
+    }
 
-        .number {
-            font-size: 56px;
-        }
+    .hero__item {
+        width: 50%;
+    }
 
-        .years {
-            font-size: 28px;
-        }
-        
-        .text {
-            font-size: 16px;
-        }
+    .number {
+        font-size: 56px;
+    }
+
+    .years {
+        font-size: 28px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
 }
